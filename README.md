@@ -2,10 +2,10 @@
 
 
 
-● Spearheaded the development of Baby Guard, engineered a localized Node-RED dashboard to provide users with intuitive control and real-time insights.
-● Implemented Azure Custom Vision, meticulously training the model with 2000 images for binary classification, resulting in an exceptional 98% accuracy rate during testing on 100 images.
-● Established a robust data storage infrastructure utilizing Influx DB, enabling efficient management and retrieval of sensor data.
-● Engineered a visually stunning Grafana dashboard, providing users with insightful data visualization and analysis.
+- Spearheaded the development of Baby Guard, engineered a localized Node-RED dashboard to provide users with intuitive control and real-time insights.
+- Implemented Azure Custom Vision, meticulously training the model with 2000 images for binary classification, resulting in an exceptional 98% accuracy rate during testing on 100 images.
+- Established a robust data storage infrastructure utilizing Influx DB, enabling efficient management and retrieval of sensor data.
+- Engineered a visually stunning Grafana dashboard, providing users with insightful data visualization and analysis.
 
 
 Steps to Implement.
